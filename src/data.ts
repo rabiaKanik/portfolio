@@ -9,7 +9,7 @@ export const profile = {
   available: true, // shows the "Open to new opportunities" badge
   email: "knkrabia@hotmail.com",
   linkedin: "https://www.linkedin.com/in/rabia-kanik/",
-  //github: "https://github.com/your-username",
+  github: "https://github.com/rabiaKanik",
   cvUrl: "/cv.pdf",
 };
 
